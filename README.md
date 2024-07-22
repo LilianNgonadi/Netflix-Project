@@ -114,5 +114,5 @@ The plot shows three distinct clusters of Netflix titles based on their release 
 
 The PCA plot shows that the titles can be effectively grouped into three distinct clusters based on their reduced dimensionality. Cluster 0 and Cluster 1 are more compact, indicating that the titles within these clusters are more similar to each other. Cluster 2 is more spread out, suggesting a more diverse set of titles.
 
-![K_Means_Clustering_PCA](K_means_Clustering_PCA.png "K_means_Clustering_PCA")
+![K_Means_Clustering_PCA](K_means_clustering_PCA.png "K_means_Clustering_PCA")
 
