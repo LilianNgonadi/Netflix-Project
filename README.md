@@ -10,19 +10,17 @@
 <ol>
   <li><a href="#description">Description</a></li>
   <li><a href="#dataset">Dataset</a></li>
-     <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
-    <ul>
-      <li><a href="#visualize-distribution-of-content-types">Visualize Distribution of Content Types</a></li>
-      <li><a href="#visualize-country-distribution">Visualize Country Distribution</a></li>
-      <li><a href="visualize -distribution-of-genre">Visualize  Distribution of genre</a></li>  
-      <li><a href="visualize-director-distribution">Visualize Director Distribution</a></li> 
-      </ul>
-      <li><a href="sentiment-analysis">Sentiment Analysis</a></li> 
+  <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
   <ul>
-       <li><a href="sentiment-distribution-by-release-year">Sentiment Distribution By Release Year</a></li>
-    </ul>
-  </li>
-  </li>
+    <li><a href="#visualize-distribution-of-content-types">Visualize Distribution of Content Types</a></li>
+    <li><a href="#visualize-country-distribution">Visualize Country Distribution</a></li>
+    <li><a href="#visualize-distribution-of-genre">Visualize Distribution of genre</a></li>
+    <li><a href="#visualize-director-distribution">Visualize Director Distribution</a></li>
+  </ul>
+  <li><a href="#sentiment-analysis">Sentiment Analysis</a></li>
+  <ul>
+    <li><a href="#sentiment-distribution-by-release-year">Sentiment Distribution By Release Year</a></li>
+  </ul>
 </ol>
 
 
