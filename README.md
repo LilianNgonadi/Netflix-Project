@@ -28,6 +28,7 @@
     <li><a href="#k-means-clustering">K-means Clustering</a></li>
     <li><a href="#k-means-clustering-with-pca">K-Means Clustering With PCA</a></li>
   </ul>
+  <li><a href="#cluster">Cluster</a></li>
 </ol>
 
 
@@ -120,4 +121,10 @@ The plot shows three distinct clusters of Netflix titles based on their release 
 The PCA plot shows that the titles can be effectively grouped into three distinct clusters based on their reduced dimensionality. Cluster 0 and Cluster 1 are more compact, indicating that the titles within these clusters are more similar to each other. Cluster 2 is more spread out, suggesting a more diverse set of titles.
 
 ![K_Means_Clustering_PCA](K_means_clustering_PCA.png "K_means_Clustering_PCA")
+
+## Distribution of Release Year by Cluster
+
+The histogram shows that Netflix's content library is heavily skewed towards titles released after the mid-1990s, with a sharp increase in the number of titles from 2000 onwards. Cluster 0 and Cluster 1 represent recent and contemporary titles, respectively, while Cluster 2 encompasses older content. This distribution reflects Netflix's focus on acquiring and producing new content while also maintaining a collection of classic titles.
+
+![Cluster](clustering.png "Cluster")
 
