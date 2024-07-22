@@ -14,12 +14,19 @@
   <ul>
     <li><a href="#visualize-distribution-of-content-types">Visualize Distribution of Content Types</a></li>
     <li><a href="#visualize-country-distribution">Visualize Country Distribution</a></li>
-    <li><a href="#visualize-distribution-of-genre">Visualize  Distribution of genre</a></li>
+    <li><a href="#visualize-distribution-of-genre">Visualize Distribution of genre</a></li>
     <li><a href="#visualize-director-distribution">Visualize Director Distribution</a></li>
   </ul>
   <li><a href="#sentiment-analysis">Sentiment Analysis</a></li>
   <ul>
     <li><a href="#sentiment-distribution-by-release-year">Sentiment Distribution By Release Year</a></li>
+  </ul>
+  <li><a href="#k-means-clustering">K-means Clustering</a></li>
+  <ul>
+    <li><a href="#the-elbow-method">The Elbow Method</a></li>
+    <li><a href="#the-silhouette-score">The Silhouette Score</a></li>
+    <li><a href="#k-means-clustering">K-means Clustering</a></li>
+    <li><a href="#k-means-clustering-with-pca">K-Means Clustering With PCA</a></li>
   </ul>
 </ol>
 
@@ -62,7 +69,7 @@ The bar chart shows that the United States is the dominant producer of Netflix c
 
 ![ Country feature](Countryfeature.png "Country feature")
 
-## Visualize  Distribution of genre
+## Visualize Distribution of genre
 
 The  chart shows that the most prevalent genre on Netflix is International Movies, with over 2500 titles. This is followed by Dramas with around 1500 titles, and Comedies with about 1000 titles. Action & Adventure and Documentaries each have approximately 800 titles. This indicates a diverse content library on Netflix, with a strong emphasis on international movies and a balanced mix of other popular genres.
 
