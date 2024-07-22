@@ -44,3 +44,11 @@ The dataset [Netflix  Titles dataset](https://www.kaggle.com/datasets/shivamb/ne
 - **duration** :Duration of the content (e.g., 90 min, 1 Season).
 - **listed_in** :Genres the content is listed under.
 - **description** :Description of the content.
+
+# Exploratory Data Analysis
+* To analyze the distribution and trends of content types, countries producing content, and genres on Netflix using the [Netflix  Titles dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download&select=netflix_titles.csv)
+## Visualize Distribution of Content Types
+- The chart indicates that there are significantly more movies available on Netflix compared to TV shows. The count of movies exceeds 6000, while the count of TV shows is slightly above 3000.
+- There are roughly twice as many movies as TV shows, suggesting that Netflix's catalog leans heavily towards movie content.
+
+![Content type](Contenttype.png "Content type")
