@@ -12,9 +12,10 @@
   <li><a href="#dataset">Dataset</a></li>
      <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
     <ul>
-      <li><a href="#visualize-numerical-feature-distribution">Visualize Numerical Feature Distribution</a></li>
-      <li><a href="#visualize-categorical-feature-distribution">Visualize Categorical Feature Distribution</a></li>
-      <li><a href="map-visualization-of-health-facilities">Map Visualization of Health Facilities</a></li>     
+      <li><a href="#visualize-distribution-of-content-types">Visualize Distribution of Content Types</a></li>
+      <li><a href="#visualize-country-distribution">Visualize Country Distribution</a></li>
+      <li><a href="visualize -distribution-of-genre">Visualize  Distribution of genre</a></li>  
+      <li><a href="visualize-director-distribution">Visualize Director Distribution</a></li>     
     </ul>
   </li>
   </li>
@@ -52,3 +53,21 @@ The dataset [Netflix  Titles dataset](https://www.kaggle.com/datasets/shivamb/ne
 - There are roughly twice as many movies as TV shows, suggesting that Netflix's catalog leans heavily towards movie content.
 
 ![Content type](Contenttype.png "Content type")
+
+## Visualize Country Distribution
+
+The bar chart shows that the United States is the dominant producer of Netflix content, contributing over 2500 titles. India follows as the second-largest contributor, with the United Kingdom in third place. Other notable contributors include Japan, South Korea, Canada, Spain, France, Mexico, and Egypt. This diverse range of content sources reflects Netflix's global reach and its strategy to cater to a wide variety of audience preferences worldwide.
+
+![ Country feature](Countryfeature.png "Country feature")
+
+## Visualize  Distribution of genre
+
+The  chart shows that the most prevalent genre on Netflix is International Movies, with over 2500 titles. This is followed by Dramas with around 1500 titles, and Comedies with about 1000 titles. Action & Adventure and Documentaries each have approximately 800 titles. This indicates a diverse content library on Netflix, with a strong emphasis on international movies and a balanced mix of other popular genres.
+
+![Genre](genre.png "Genre")
+
+## Visualize Director Distribution
+
+This chart highlights the directors who have a substantial number of works featured on Netflix, showcasing their prolific contributions to the platform's diverse range of content.
+
+![Director](director.png "Director")
