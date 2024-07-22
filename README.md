@@ -28,7 +28,7 @@
     <li><a href="#k-means-clustering">K-means Clustering</a></li>
     <li><a href="#k-means-clustering-with-pca">K-Means Clustering With PCA</a></li>
   </ul>
-  <li><a href="#cluster">Cluster</a></li>
+  <li><a href="#distribution-of-release-year-by-cluster">Distribution of Release Year by Cluster</a></li>
 </ol>
 
 
