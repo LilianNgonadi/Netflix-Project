@@ -88,3 +88,25 @@ The chart shows that Netflix content descriptions are predominantly positive, wi
 The chart reveals that Netflix content descriptions are predominantly positive across all years from 2014 to 2021. There is a consistent presence of negative and neutral sentiments, but they are significantly fewer in comparison to positive sentiments. The trend also shows a peak in content descriptions around 2018. This analysis indicates Netflix's strategy of using positive language to market its content effectively.
 
 ![Sentiment By Year](Sentiment_by_year.png "Sentiment By Year")
+
+# K-means Clustering
+
+
+## The Elbow Method 
+
+The Elbow Method chart suggests that the optimal number of clusters for this dataset is 3. This choice balances capturing the data’s structure and maintaining simplicity.
+
+![Elbow Method](Elbowmethod.png "Elbow Method")
+
+## The Silhouette Score 
+
+The Silhouette Score chart suggests that the optimal number of clusters for this dataset is 3. This number of clusters provides the highest quality of clustering, with well-defined and separated clusters.
+
+![Silhouette Score](Silhouettescore.png "Silhouette Score")
+
+## K-means Clustering
+
+The plot shows three distinct clusters of Netflix titles based on their release year and duration. Cluster 0 contains older, longer titles; Cluster 1 includes more recent, shorter titles; and Cluster 2 encompasses a variety of older content with mixed durations. This clustering highlights patterns in Netflix's content library, showing how the duration and release periods of titles can group into distinct categories.
+
+![ K-Means Clustering]( K-means Clustering.png "K-Means Clustering")
+
