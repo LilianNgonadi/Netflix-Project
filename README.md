@@ -126,5 +126,5 @@ The PCA plot shows that the titles can be effectively grouped into three distinc
 
 The histogram shows that Netflix's content library is heavily skewed towards titles released after the mid-1990s, with a sharp increase in the number of titles from 2000 onwards. Cluster 0 and Cluster 1 represent recent and contemporary titles, respectively, while Cluster 2 encompasses older content. This distribution reflects Netflix's focus on acquiring and producing new content while also maintaining a collection of classic titles.
 
-![Cluster](clustering.png "Cluster")
+![Cluster](cluster.png "Cluster")
 
