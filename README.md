@@ -71,3 +71,16 @@ The  chart shows that the most prevalent genre on Netflix is International Movie
 This chart highlights the directors who have a substantial number of works featured on Netflix, showcasing their prolific contributions to the platform's diverse range of content.
 
 ![Director](director.png "Director")
+
+# Sentiment Analysis
+
+The chart shows that Netflix content descriptions are predominantly positive, with fewer negative and neutral sentiments. This suggests that Netflix emphasizes positive descriptions to engage viewers and promote its content.
+
+![Sentiment Analysis](SentimentAnalysis.png "Sentiment Analysis")
+
+# Sentiment distribution by release year
+
+
+The chart reveals that Netflix content descriptions are predominantly positive across all years from 2014 to 2021. There is a consistent presence of negative and neutral sentiments, but they are significantly fewer in comparison to positive sentiments. The trend also shows a peak in content descriptions around 2018. This analysis indicates Netflix's strategy of using positive language to market its content effectively.
+
+![Sentiment By Year](Sentiment_by_year.png "Sentiment By Year")
