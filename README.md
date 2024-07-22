@@ -108,5 +108,11 @@ The Silhouette Score chart suggests that the optimal number of clusters for this
 
 The plot shows three distinct clusters of Netflix titles based on their release year and duration. Cluster 0 contains older, longer titles; Cluster 1 includes more recent, shorter titles; and Cluster 2 encompasses a variety of older content with mixed durations. This clustering highlights patterns in Netflix's content library, showing how the duration and release periods of titles can group into distinct categories.
 
-![ K-Means Clustering]( K-means Clustering.png "K-Means Clustering")
+![ K_Means_Clustering]( K_means_clustering.png "K_Means_Clustering")
+
+## K-Means Clustering With PCA
+
+The PCA plot shows that the titles can be effectively grouped into three distinct clusters based on their reduced dimensionality. Cluster 0 and Cluster 1 are more compact, indicating that the titles within these clusters are more similar to each other. Cluster 2 is more spread out, suggesting a more diverse set of titles.
+
+![K_Means_Clustering_PCA](K_means_Clustering_PCA.png "K_means_Clustering_PCA")
 
