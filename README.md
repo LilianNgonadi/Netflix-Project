@@ -15,7 +15,9 @@
       <li><a href="#visualize-distribution-of-content-types">Visualize Distribution of Content Types</a></li>
       <li><a href="#visualize-country-distribution">Visualize Country Distribution</a></li>
       <li><a href="visualize -distribution-of-genre">Visualize  Distribution of genre</a></li>  
-      <li><a href="visualize-director-distribution">Visualize Director Distribution</a></li>     
+      <li><a href="visualize-director-distribution">Visualize Director Distribution</a></li> 
+      <li><a href="sentiment-analysis">Sentiment Analysis</a></li> 
+       <li><a href="sentiment-distribution-by-release-year">Sentiment distribution by release year</a></li>
     </ul>
   </li>
   </li>
