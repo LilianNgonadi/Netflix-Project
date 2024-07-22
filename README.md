@@ -82,7 +82,7 @@ The chart shows that Netflix content descriptions are predominantly positive, wi
 
 ![Sentiment Analysis](SentimentAnalysis.png "Sentiment Analysis")
 
-# Sentiment Distribution By Release Year
+## Sentiment Distribution By Release Year
 
 
 The chart reveals that Netflix content descriptions are predominantly positive across all years from 2014 to 2021. There is a consistent presence of negative and neutral sentiments, but they are significantly fewer in comparison to positive sentiments. The trend also shows a peak in content descriptions around 2018. This analysis indicates Netflix's strategy of using positive language to market its content effectively.
